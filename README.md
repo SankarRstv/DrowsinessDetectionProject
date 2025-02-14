@@ -67,7 +67,7 @@ This project is also featured in the **Journal of Foundational Research**:
 - **Certificate of Acceptance**:  
   This is to certify that the article entitled:  
   **"Drowsiness Detection Using Computer Vision"**  
-  Authored by **Asfak Ahamed S.**, was published in the *Journal of Foundational Research*,  
+  Authored by **Sankar R.**, was published in the *Journal of Foundational Research*,  
   ISSN: **2395-5635**, Volume **XXXII**, No.1 (X): January–June: 2024.  
 
 ![Certificate of Acceptance](assets/certificate-1.png)
@@ -75,9 +75,9 @@ This project is also featured in the **Journal of Foundational Research**:
 ## Author  
 
 **Asfak Ahamed S**  
-Email: [asfakamd.s@gmail.com](mailto:asfakamd.s@gmail.com)  
-GitHub: [AsfakAhamedS](https://github.com/AsfakAhamedS)  
-LinkedIn: [Asfak Ahamed S](https://www.linkedin.com/in/asfak-ahamed)  
-Website: [asfakahameds.com](https://asfakahameds.github.io/Asfak-Ahamed-S-Portfolio/)  
+Email: [sankarrstv@gmail.com](mailto:sankarrstv@gmail.com)  
+GitHub: [Sankar R](https://github.com/SankarRstv)  
+LinkedIn: [Sankar R](https://www.linkedin.com/in/sankarrstv)  
+Website: [sankarrstv.com](https://sankarrstv.github.io/SankarRstv-Portfolio/)  
 
 ---  
