@@ -78,6 +78,6 @@ This project is also featured in the **Journal of Foundational Research**:
 Email: [sankarrstv@gmail.com](mailto:sankarrstv@gmail.com)  
 GitHub: [Sankar R](https://github.com/SankarRstv)  
 LinkedIn: [Sankar R](https://www.linkedin.com/in/sankarrstv)  
-Website: [sankarrstv.com](https://sankarrstv.github.io/SankarRstv-Portfolio/)  
+Website: [sankarrstv.com](https://sankarrstv.github.io/Sankar-R-Portfolio/)  
 
 ---  
